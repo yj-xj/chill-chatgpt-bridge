@@ -21,7 +21,7 @@
 5. 运行游戏配置脚本。如果从 Wallpaper Engine 运行，请指定其项目内的游戏副本目录；如果提示权限不足，再使用管理员 PowerShell：
 
    ```powershell
-   .\Configure-Game.ps1 -GameDirectory '你的游戏目录'
+   powershell -NoProfile -ExecutionPolicy Bypass -File .\Configure-Game.ps1 -GameDirectory '你的游戏目录'
    ```
 
 6. 重启游戏，在 AIChat 窗口发送文字。使用期间适配服务需要保持运行。
