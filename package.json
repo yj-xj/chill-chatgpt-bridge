@@ -1,0 +1,10 @@
+{
+  "name": "chill-chatgpt-bridge",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Local ChatGPT subscription sign-in adapter for Chill With You AIChat",
+  "engines": { "node": ">=22.12" },
+  "scripts": { "start": "node server.mjs", "test": "node --test test/*.test.mjs" },
+  "license": "SEE LICENSE IN LICENSE"
+}

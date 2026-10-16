@@ -1,0 +1,16 @@
+node_modules/
+runtime/
+*.log
+*.pid
+launcher-context.json
+*.zip
+.env*
+data/
+credentials/
+chatgpt-auth.json*
+chatgpt-host.json
+settings.json
+local-client.key
+*.cfg
+*.bak
+*.before-*

@@ -1,0 +1,49 @@
+{
+  "upstream": "https://github.com/openai/sign-in-with-chatgpt-devkit",
+  "commit": "0a36fefeb913055c8c7a1a29b63d82b96b2e841a",
+  "package": "@siwc/local",
+  "packageVersion": "0.1.0",
+  "sourcePath": "packages/local",
+  "bundler": "esbuild@0.28.2",
+  "target": "node22",
+  "sha256": "396be909fa0a6548d75e329c47c7e1fa5994a70182eb80ed960541c28f44dd4c",
+  "bytes": 1004469,
+  "runtimeDependencies": [
+    {
+      "name": "jose",
+      "version": "6.2.12",
+      "license": "MIT"
+    },
+    {
+      "name": "openai",
+      "version": "7.21.0",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "proper-lockfile",
+      "version": "4.1.2",
+      "license": "MIT"
+    },
+    {
+      "name": "graceful-fs",
+      "version": "4.2.11",
+      "license": "ISC"
+    },
+    {
+      "name": "retry",
+      "version": "0.12.0",
+      "license": "MIT"
+    },
+    {
+      "name": "signal-exit",
+      "version": "3.0.7",
+      "license": "ISC"
+    }
+  ],
+  "localSDKTests": {
+    "total": 57,
+    "passed": 56,
+    "skippedWindowsUnixPermissionCheck": 1,
+    "failed": 0
+  }
+}

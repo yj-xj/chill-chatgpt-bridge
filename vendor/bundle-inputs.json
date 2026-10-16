@@ -1,0 +1,1066 @@
+[
+  {
+    "path": "../siwc-devkit/packages/local/src/errors.ts",
+    "bytes": 10942
+  },
+  {
+    "path": "../siwc-devkit/packages/local/src/models.ts",
+    "bytes": 1368
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/lib/buffer_utils.js",
+    "bytes": 2736
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/util/errors.js",
+    "bytes": 3305
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/util/base64url.js",
+    "bytes": 490
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/lib/validate.js",
+    "bytes": 4678
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/lib/key.js",
+    "bytes": 7824
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/lib/content_encryption.js",
+    "bytes": 4224
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/lib/key_descriptor.js",
+    "bytes": 167
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/lib/jwe_algorithms.js",
+    "bytes": 3326
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/lib/key_management.js",
+    "bytes": 10987
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/lib/deflate.js",
+    "bytes": 1598
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/lib/jwe_decrypt.js",
+    "bytes": 8956
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/jwe/compact/decrypt.js",
+    "bytes": 217
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/jwe/flattened/decrypt.js",
+    "bytes": 659
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/jwe/general/decrypt.js",
+    "bytes": 1811
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/lib/jwe_encrypt.js",
+    "bytes": 5899
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/jwe/general/encrypt.js",
+    "bytes": 4388
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/lib/jws_algorithms.js",
+    "bytes": 1746
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/lib/jws_verify.js",
+    "bytes": 5402
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/jws/compact/verify.js",
+    "bytes": 243
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/jws/flattened/verify.js",
+    "bytes": 538
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/jws/general/verify.js",
+    "bytes": 1967
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/lib/jwt_claims_set.js",
+    "bytes": 7307
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/jwt/verify.js",
+    "bytes": 534
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/jwt/decrypt.js",
+    "bytes": 841
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/jwe/compact/encrypt.js",
+    "bytes": 978
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/jwe/flattened/encrypt.js",
+    "bytes": 1369
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/lib/jws_sign.js",
+    "bytes": 2738
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/jws/compact/sign.js",
+    "bytes": 702
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/jws/flattened/sign.js",
+    "bytes": 757
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/jws/general/sign.js",
+    "bytes": 1895
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/jwt/sign.js",
+    "bytes": 719
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/jwt/encrypt.js",
+    "bytes": 1843
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/lib/key_algorithm.js",
+    "bytes": 517
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/lib/asn1.js",
+    "bytes": 5853
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/key/export.js",
+    "bytes": 1120
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/jwk/thumbprint.js",
+    "bytes": 2682
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/jwk/embedded.js",
+    "bytes": 1134
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/jwks/local.js",
+    "bytes": 2779
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/jwks/remote.js",
+    "bytes": 4238
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/jwt/unsecured.js",
+    "bytes": 1580
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/key/import.js",
+    "bytes": 2279
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/util/decode_protected_header.js",
+    "bytes": 717
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/util/decode_jwt.js",
+    "bytes": 1053
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/key/generate_key_pair.js",
+    "bytes": 1645
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/key/generate_secret.js",
+    "bytes": 1233
+  },
+  {
+    "path": "node_modules/.pnpm/jose@6.2.12/node_modules/jose/dist/webapi/index.js",
+    "bytes": 2376
+  },
+  {
+    "path": "../siwc-devkit/packages/local/src/oauth.ts",
+    "bytes": 20248
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/tslib.mjs",
+    "bytes": 1404
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/utils/uuid.mjs",
+    "bytes": 543
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/errors.mjs",
+    "bytes": 1376
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/core/error.mjs",
+    "bytes": 5050
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/utils/values.mjs",
+    "bytes": 2794
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/utils/sleep.mjs",
+    "bytes": 1400
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/utils/abort.mjs",
+    "bytes": 4176
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/shims.mjs",
+    "bytes": 3375
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/utils/bytes.mjs",
+    "bytes": 1317
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/decoders/line.mjs",
+    "bytes": 11012
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/utils/log.mjs",
+    "bytes": 4643
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/core/streaming.mjs",
+    "bytes": 24544
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/parse.mjs",
+    "bytes": 3715
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/version.mjs",
+    "bytes": 149
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/detect-platform.mjs",
+    "bytes": 5866
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/request-options.mjs",
+    "bytes": 1636
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/qs/formats.mjs",
+    "bytes": 301
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/qs/utils.mjs",
+    "bytes": 20701
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/qs/stringify.mjs",
+    "bytes": 11652
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/utils/query.mjs",
+    "bytes": 180
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/data-residency.mjs",
+    "bytes": 1339
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/core/api-promise.mjs",
+    "bytes": 2991
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/core/pagination.mjs",
+    "bytes": 6170
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/auth/workload-identity-auth.mjs",
+    "bytes": 12254
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/auth/x509-api-origin.mjs",
+    "bytes": 1096
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/headers.mjs",
+    "bytes": 2827
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/auth/x509-transport-state-browser.mjs",
+    "bytes": 2611
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/auth/x509-transport-state.js",
+    "bytes": 3213
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/auth/x509-transport-state.mjs",
+    "bytes": 753
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/auth/x509-transport-registry.mjs",
+    "bytes": 1848
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/auth/x509-workload-identity-auth.mjs",
+    "bytes": 47421
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/auth/x509-credential-options.mjs",
+    "bytes": 5516
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/uploads.mjs",
+    "bytes": 19710
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/to-file.mjs",
+    "bytes": 4937
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/core/uploads.mjs",
+    "bytes": 146
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/core/resource.mjs",
+    "bytes": 129
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/utils/path.mjs",
+    "bytes": 4317
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/chat/completions/messages.mjs",
+    "bytes": 3690
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/error.mjs",
+    "bytes": 120
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/lib/parser.mjs",
+    "bytes": 11635
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/lib/chatCompletionUtils.mjs",
+    "bytes": 477
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/lib/EventStream.mjs",
+    "bytes": 76521
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/lib/RunnableFunction.mjs",
+    "bytes": 651
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/lib/AbstractChatCompletionRunner.mjs",
+    "bytes": 24952
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/lib/ChatCompletionRunner.mjs",
+    "bytes": 1421
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/_vendor/partial-json-parser/parser.mjs",
+    "bytes": 8709
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/streaming.mjs",
+    "bytes": 132
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/lib/ChatCompletionStream.mjs",
+    "bytes": 94679
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/lib/ChatCompletionStreamingRunner.mjs",
+    "bytes": 2662
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/chat/completions/completions.mjs",
+    "bytes": 7423
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/chat/chat.mjs",
+    "bytes": 503
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/chat/completions/index.mjs",
+    "bytes": 248
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/chat/index.mjs",
+    "bytes": 211
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/shared.mjs",
+    "bytes": 132
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/admin-api-keys.mjs",
+    "bytes": 5061
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/audit-logs.mjs",
+    "bytes": 3851
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/certificates.mjs",
+    "bytes": 7549
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/data-retention.mjs",
+    "bytes": 1369
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/external-storage.mjs",
+    "bytes": 6226
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/invites.mjs",
+    "bytes": 5175
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/roles.mjs",
+    "bytes": 5465
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/spend-alerts.mjs",
+    "bytes": 6074
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/spend-limit.mjs",
+    "bytes": 1844
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/usage.mjs",
+    "bytes": 6101
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/groups/roles.mjs",
+    "bytes": 5372
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/groups/users.mjs",
+    "bytes": 5268
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/groups/groups.mjs",
+    "bytes": 5827
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/projects/api-keys.mjs",
+    "bytes": 4976
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/projects/certificates.mjs",
+    "bytes": 5308
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/projects/data-retention.mjs",
+    "bytes": 1569
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/projects/hosted-tool-permissions.mjs",
+    "bytes": 1591
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/projects/model-permissions.mjs",
+    "bytes": 2143
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/projects/rate-limits.mjs",
+    "bytes": 4314
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/projects/roles.mjs",
+    "bytes": 5902
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/projects/spend-alerts.mjs",
+    "bytes": 6549
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/projects/spend-limit.mjs",
+    "bytes": 2132
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/projects/groups/roles.mjs",
+    "bytes": 3180
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/projects/groups/groups.mjs",
+    "bytes": 5627
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/projects/service-accounts/api-keys.mjs",
+    "bytes": 1122
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/projects/service-accounts/service-accounts.mjs",
+    "bytes": 6732
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/projects/users/roles.mjs",
+    "bytes": 3154
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/projects/users/users.mjs",
+    "bytes": 6403
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/projects/projects.mjs",
+    "bytes": 8360
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/users/roles.mjs",
+    "bytes": 5349
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/users/users.mjs",
+    "bytes": 5199
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/organization/organization.mjs",
+    "bytes": 2929
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/admin/admin.mjs",
+    "bytes": 516
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/audio/speech.mjs",
+    "bytes": 1230
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/audio/transcriptions.mjs",
+    "bytes": 863
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/audio/translations.mjs",
+    "bytes": 758
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/audio/audio.mjs",
+    "bytes": 890
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/batches.mjs",
+    "bytes": 4598
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/beta/assistants.mjs",
+    "bytes": 5451
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/beta/realtime/sessions.mjs",
+    "bytes": 1030
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/beta/realtime/transcription-sessions.mjs",
+    "bytes": 1152
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/beta/realtime/realtime.mjs",
+    "bytes": 798
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/beta/agents/environments/files.mjs",
+    "bytes": 2352
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/beta/agents/environments/templates.mjs",
+    "bytes": 6973
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/beta/agents/environments/environments.mjs",
+    "bytes": 1655
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/lib/agents/turn-state.mjs",
+    "bytes": 2882
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/lib/agents/agent-session-stream.mjs",
+    "bytes": 15855
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/beta/agents/sessions/artifacts.mjs",
+    "bytes": 6604
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/beta/agents/sessions/events.mjs",
+    "bytes": 2883
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/beta/agents/sessions/items.mjs",
+    "bytes": 3738
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/beta/agents/sessions/turns.mjs",
+    "bytes": 4612
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/beta/agents/sessions/subagents/items.mjs",
+    "bytes": 1485
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/beta/agents/sessions/subagents/turns/items.mjs",
+    "bytes": 1548
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/beta/agents/sessions/subagents/turns/turns.mjs",
+    "bytes": 2587
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/beta/agents/sessions/subagents/subagents.mjs",
+    "bytes": 4942
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/beta/agents/sessions/sessions.mjs",
+    "bytes": 7741
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/beta/agents/vaults/credentials.mjs",
+    "bytes": 7179
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/beta/agents/vaults/vaults.mjs",
+    "bytes": 5800
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/beta/agents/agents.mjs",
+    "bytes": 6847
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/beta/chatkit/sessions.mjs",
+    "bytes": 1719
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/beta/chatkit/threads.mjs",
+    "bytes": 5612
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/beta/chatkit/chatkit.mjs",
+    "bytes": 638
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/beta/responses/input-items.mjs",
+    "bytes": 3972
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/beta/responses/input-tokens.mjs",
+    "bytes": 1277
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/beta/responses/responses.mjs",
+    "bytes": 7780
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/beta/threads/messages.mjs",
+    "bytes": 6012
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/beta/threads/runs/steps.mjs",
+    "bytes": 1857
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/utils/base64.mjs",
+    "bytes": 2188
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/utils/env.mjs",
+    "bytes": 607
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/utils.mjs",
+    "bytes": 276
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/assistant-stream-delta.mjs",
+    "bytes": 13902
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/lib/AssistantStream.mjs",
+    "bytes": 45005
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/lib/polling.mjs",
+    "bytes": 4671
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/lib/assistant-run-polling.mjs",
+    "bytes": 641
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/beta/threads/runs/runs.mjs",
+    "bytes": 8985
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/beta/threads/threads.mjs",
+    "bytes": 4016
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/beta/beta.mjs",
+    "bytes": 1431
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/completions.mjs",
+    "bytes": 793
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/containers/files/content.mjs",
+    "bytes": 964
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/containers/files/files.mjs",
+    "bytes": 5159
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/containers/containers.mjs",
+    "bytes": 4733
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/content-provenance-checks.mjs",
+    "bytes": 1402
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/conversations/items.mjs",
+    "bytes": 4901
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/conversations/conversations.mjs",
+    "bytes": 1889
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/lib/embeddings.mjs",
+    "bytes": 2666
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/embeddings.mjs",
+    "bytes": 504
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/evals/runs/output-items.mjs",
+    "bytes": 1320
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/evals/runs/runs.mjs",
+    "bytes": 5329
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/evals/evals.mjs",
+    "bytes": 5377
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/lib/file-processing.mjs",
+    "bytes": 1374
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/files.mjs",
+    "bytes": 7118
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/fine-tuning/methods.mjs",
+    "bytes": 222
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/fine-tuning/alpha/graders.mjs",
+    "bytes": 1710
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/fine-tuning/alpha/alpha.mjs",
+    "bytes": 449
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/fine-tuning/checkpoints/permissions.mjs",
+    "bytes": 6497
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/fine-tuning/checkpoints/checkpoints.mjs",
+    "bytes": 503
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/fine-tuning/jobs/checkpoints.mjs",
+    "bytes": 3684
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/fine-tuning/jobs/jobs.mjs",
+    "bytes": 7255
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/fine-tuning/fine-tuning.mjs",
+    "bytes": 1031
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/graders/grader-models.mjs",
+    "bytes": 233
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/graders/graders.mjs",
+    "bytes": 499
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/images.mjs",
+    "bytes": 1743
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/live/sessions.mjs",
+    "bytes": 4328
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/live/forks/forks.mjs",
+    "bytes": 221
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/live/sideband/sideband.mjs",
+    "bytes": 227
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/live/live.mjs",
+    "bytes": 1538
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/models.mjs",
+    "bytes": 1513
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/moderations.mjs",
+    "bytes": 881
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/multipart-encoding.mjs",
+    "bytes": 2347
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/realtime/calls.mjs",
+    "bytes": 3652
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/realtime/client-secrets.mjs",
+    "bytes": 1637
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/realtime/realtime.mjs",
+    "bytes": 668
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/lib/ResponsesParser.mjs",
+    "bytes": 7784
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/responses/output-text-index.mjs",
+    "bytes": 2422
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/responses/canonical-output-text.mjs",
+    "bytes": 4752
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/responses/response-accumulator.mjs",
+    "bytes": 40622
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/lib/responses/ResponseStream.mjs",
+    "bytes": 10432
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/responses/input-items.mjs",
+    "bytes": 3638
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/responses/input-tokens.mjs",
+    "bytes": 948
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/responses/responses.mjs",
+    "bytes": 7283
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/safety/alerts.mjs",
+    "bytes": 683
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/safety/cases.mjs",
+    "bytes": 642
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/safety/safety.mjs",
+    "bytes": 594
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/skills/content.mjs",
+    "bytes": 889
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/skills/versions/content.mjs",
+    "bytes": 962
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/skills/versions/versions.mjs",
+    "bytes": 4857
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/skills/skills.mjs",
+    "bytes": 5148
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/uploads/parts.mjs",
+    "bytes": 1459
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/uploads/uploads.mjs",
+    "bytes": 3537
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/lib/vector-store-polling.mjs",
+    "bytes": 1012
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/lib/Util.mjs",
+    "bytes": 988
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/lib/vector-store-upload.mjs",
+    "bytes": 1957
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/vector-stores/file-batches.mjs",
+    "bytes": 3784
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/vector-stores/files.mjs",
+    "bytes": 8059
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/vector-stores/vector-stores.mjs",
+    "bytes": 6270
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/videos.mjs",
+    "bytes": 7816
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/lib/webhook-signature.mjs",
+    "bytes": 5718
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/webhooks/event-types.mjs",
+    "bytes": 761
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/webhooks/webhooks.mjs",
+    "bytes": 10103
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/resources/index.mjs",
+    "bytes": 1420
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/realtime-credentials.mjs",
+    "bytes": 825
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/provider.mjs",
+    "bytes": 2316
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/client.mjs",
+    "bytes": 88109
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/azure.mjs",
+    "bytes": 8609
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/internal/bedrock.mjs",
+    "bytes": 19586
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/bedrock.mjs",
+    "bytes": 9279
+  },
+  {
+    "path": "node_modules/.pnpm/openai@7.21.0/node_modules/openai/index.mjs",
+    "bytes": 729
+  },
+  {
+    "path": "../siwc-devkit/packages/local/src/responses.ts",
+    "bytes": 5399
+  },
+  {
+    "path": "node_modules/.pnpm/graceful-fs@4.2.11/node_modules/graceful-fs/polyfills.js",
+    "bytes": 10141
+  },
+  {
+    "path": "node_modules/.pnpm/graceful-fs@4.2.11/node_modules/graceful-fs/legacy-streams.js",
+    "bytes": 2655
+  },
+  {
+    "path": "node_modules/.pnpm/graceful-fs@4.2.11/node_modules/graceful-fs/clone.js",
+    "bytes": 496
+  },
+  {
+    "path": "node_modules/.pnpm/graceful-fs@4.2.11/node_modules/graceful-fs/graceful-fs.js",
+    "bytes": 12680
+  },
+  {
+    "path": "node_modules/.pnpm/retry@0.12.0/node_modules/retry/lib/retry_operation.js",
+    "bytes": 3657
+  },
+  {
+    "path": "node_modules/.pnpm/retry@0.12.0/node_modules/retry/lib/retry.js",
+    "bytes": 2298
+  },
+  {
+    "path": "node_modules/.pnpm/retry@0.12.0/node_modules/retry/index.js",
+    "bytes": 40
+  },
+  {
+    "path": "node_modules/.pnpm/signal-exit@3.0.7/node_modules/signal-exit/signals.js",
+    "bytes": 1295
+  },
+  {
+    "path": "node_modules/.pnpm/signal-exit@3.0.7/node_modules/signal-exit/index.js",
+    "bytes": 5708
+  },
+  {
+    "path": "node_modules/.pnpm/proper-lockfile@4.1.2/node_modules/proper-lockfile/lib/mtime-precision.js",
+    "bytes": 1366
+  },
+  {
+    "path": "node_modules/.pnpm/proper-lockfile@4.1.2/node_modules/proper-lockfile/lib/lockfile.js",
+    "bytes": 10845
+  },
+  {
+    "path": "node_modules/.pnpm/proper-lockfile@4.1.2/node_modules/proper-lockfile/lib/adapter.js",
+    "bytes": 1898
+  },
+  {
+    "path": "node_modules/.pnpm/proper-lockfile@4.1.2/node_modules/proper-lockfile/index.js",
+    "bytes": 1025
+  },
+  {
+    "path": "../siwc-devkit/packages/local/src/storage.ts",
+    "bytes": 15971
+  },
+  {
+    "path": "../siwc-devkit/packages/local/src/index.ts",
+    "bytes": 20334
+  }
+]

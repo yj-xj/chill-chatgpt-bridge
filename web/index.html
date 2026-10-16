@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="bridge-control" content="{{CONTROL_TOKEN}}">
+  <title>Chill ChatGPT Bridge</title>
+  <link rel="stylesheet" href="/styles.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <main>
+    <header><span class="eyebrow">CHILL CHATGPT BRIDGE</span><h1>和聪音，继续聊。</h1><p>使用现有 ChatGPT 订阅，为游戏连接文字对话。</p></header>
+    <div class="layout">
+      <section class="card">
+        <div class="step">01 · 连接账号</div><h2>ChatGPT</h2>
+        <div id="connection" class="status">正在读取连接状态…</div>
+        <p id="identity" class="muted"></p>
+        <div class="row"><button id="login" class="primary">Continue with ChatGPT</button><button id="cancel" hidden>取消登录</button></div>
+        <p id="login-help" class="muted">登录和订阅授权在 OpenAI 官方页面完成。</p>
+        <div id="profile-area" hidden><label for="profiles">已保存的连接</label><select id="profiles"></select><div class="row"><button id="add-account">添加账号</button><button id="reconsent" hidden>重新授权订阅使用</button><button id="disconnect">退出当前连接</button></div></div>
+        <a href="https://chatgpt.com/settings/usage" target="_blank" rel="noreferrer">管理 ChatGPT 用量与应用授权 ↗</a>
+      </section>
+      <section class="card">
+        <div class="step">02 · 选择模型</div><h2>用你的订阅聊天</h2>
+        <label for="models">当前账号可用的模型</label><select id="models" disabled><option>登录后显示</option></select>
+        <div class="row"><button id="refresh" disabled>刷新模型</button><span id="plan" class="badge">尚未连接</span></div>
+        <p class="muted">这里的对话会消耗 ChatGPT 订阅额度，与其他使用该订阅的应用共享用量。</p>
+        <div class="divider"></div>
+        <div class="step">03 · 验证连接</div><button id="test" class="primary" disabled>测试文字对话</button>
+        <p class="muted">发送一句简短的连接测试，不包含游戏记录或私人聊天。</p>
+        <div id="result" class="result" hidden></div>
+      </section>
+    </div>
+    <div id="error" role="alert" class="error" hidden></div>
+    <footer>仅在本机运行 · 登录凭据由 Windows 加密保存 · 文字对话适配，尚未配置语音</footer>
+  </main>
+</body>
+</html>
