@@ -41,6 +41,8 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\Configure-Game.ps1 -GameDi
 
 ## 游戏配置
 
+壁纸卡片或 F9/F10 控制台无法输入中文时，可独立安装 [AIChat 中文输入补丁](addons/AIChatChineseInput/README.md)。它使用 Windows 系统输入法编辑并回填草稿，不需要启动桥接服务，也不会自动发送对话。
+
 配置脚本修改 `BepInEx/config/com.username.chillaimod.cfg` 的 LLM 部分，并先保存备份：
 
 - `API_URL`：`http://127.0.0.1:17941/v1/chat/completions`

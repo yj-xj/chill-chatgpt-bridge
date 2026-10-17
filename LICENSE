@@ -20,6 +20,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-This license covers original bridge code only. Third-party code under vendor/
+This license covers original code in this repository, including addons. Third-party code under vendor/
 has its own licenses, including the OpenAI Sign-in with ChatGPT DevKit
 Noncommercial License. See THIRD_PARTY_NOTICES.md and vendor/.
